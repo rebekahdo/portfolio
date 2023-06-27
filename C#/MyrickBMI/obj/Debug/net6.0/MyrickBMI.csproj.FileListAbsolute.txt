@@ -1,0 +1,15 @@
+C:\temp\.Net\MyrickBMI\MyrickBMI\bin\Debug\net6.0\MyrickBMI.exe
+C:\temp\.Net\MyrickBMI\MyrickBMI\bin\Debug\net6.0\MyrickBMI.deps.json
+C:\temp\.Net\MyrickBMI\MyrickBMI\bin\Debug\net6.0\MyrickBMI.runtimeconfig.json
+C:\temp\.Net\MyrickBMI\MyrickBMI\bin\Debug\net6.0\MyrickBMI.dll
+C:\temp\.Net\MyrickBMI\MyrickBMI\bin\Debug\net6.0\MyrickBMI.pdb
+C:\temp\.Net\MyrickBMI\MyrickBMI\obj\Debug\net6.0\MyrickBMI.csproj.AssemblyReference.cache
+C:\temp\.Net\MyrickBMI\MyrickBMI\obj\Debug\net6.0\MyrickBMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\.Net\MyrickBMI\MyrickBMI\obj\Debug\net6.0\MyrickBMI.AssemblyInfoInputs.cache
+C:\temp\.Net\MyrickBMI\MyrickBMI\obj\Debug\net6.0\MyrickBMI.AssemblyInfo.cs
+C:\temp\.Net\MyrickBMI\MyrickBMI\obj\Debug\net6.0\MyrickBMI.csproj.CoreCompileInputs.cache
+C:\temp\.Net\MyrickBMI\MyrickBMI\obj\Debug\net6.0\MyrickBMI.dll
+C:\temp\.Net\MyrickBMI\MyrickBMI\obj\Debug\net6.0\refint\MyrickBMI.dll
+C:\temp\.Net\MyrickBMI\MyrickBMI\obj\Debug\net6.0\MyrickBMI.pdb
+C:\temp\.Net\MyrickBMI\MyrickBMI\obj\Debug\net6.0\MyrickBMI.genruntimeconfig.cache
+C:\temp\.Net\MyrickBMI\MyrickBMI\obj\Debug\net6.0\ref\MyrickBMI.dll
