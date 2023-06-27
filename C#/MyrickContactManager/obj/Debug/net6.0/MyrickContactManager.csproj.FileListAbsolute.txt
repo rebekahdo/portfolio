@@ -1,0 +1,15 @@
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\obj\Debug\net6.0\MyrickContactManager.csproj.AssemblyReference.cache
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\obj\Debug\net6.0\MyrickContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\obj\Debug\net6.0\MyrickContactManager.AssemblyInfoInputs.cache
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\obj\Debug\net6.0\MyrickContactManager.AssemblyInfo.cs
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\obj\Debug\net6.0\MyrickContactManager.csproj.CoreCompileInputs.cache
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\bin\Debug\net6.0\MyrickContactManager.exe
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\bin\Debug\net6.0\MyrickContactManager.deps.json
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\bin\Debug\net6.0\MyrickContactManager.runtimeconfig.json
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\bin\Debug\net6.0\MyrickContactManager.dll
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\bin\Debug\net6.0\MyrickContactManager.pdb
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\obj\Debug\net6.0\MyrickContactManager.dll
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\obj\Debug\net6.0\refint\MyrickContactManager.dll
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\obj\Debug\net6.0\MyrickContactManager.pdb
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\obj\Debug\net6.0\MyrickContactManager.genruntimeconfig.cache
+C:\temp\.Net\MyrickContactManager\MyrickContactManager\obj\Debug\net6.0\ref\MyrickContactManager.dll
